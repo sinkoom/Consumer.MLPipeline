@@ -6,9 +6,11 @@ The data and ML pipelines for the consumer data science.
 The consumer data science portfolio consist currently of three projects
 * Marketing Mix Models
 * Multitouch Attribution Models (MAM)
-* Audiences / Segmentation / Clustering 
+* Audiences / Segmentation / Clustering (Axiom Segmentation)
 * Marketing Mix Models 2.0
+* Design of Experiments
 * Creatives (NLP, Itemized creatives, Computer Vision for creatives, Generative AI etc.)
 
 
-
+### Data
+All data for projects can be sourced from AWS RedShift.
