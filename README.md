@@ -33,6 +33,8 @@ The Key Performance Index (KPIs) measured in our projects include the following:
 * Return on Investment (ROI _ratio_ - [Cost per channel / Prescriptions (NBRx_Market)])
 * Marginal Return on Investment (mROI _ratio_ - slope of [Cost per channel / Prescriptions (NBRx_Market)])
 * Brand Value Score (BVS)
+* Degree of addressability/measurability
+*
 
 
 ### Processes
