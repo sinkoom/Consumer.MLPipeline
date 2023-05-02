@@ -27,8 +27,10 @@ Data types include the:
 
 ### KPIs
 The Key Performance Index (KPIs) measured in our projects include the following:
-* Share of Market (SOM - the ratio of [Brand Prescriptions (NBRx_brand)] / [Total Market Prescription (NBRx_Market)])
-* Return of Investment (ROI)
+* Share of Market (SOM - _ratio_ [Brand Prescriptions (NBRx_brand)] / [Total Market Prescription (NBRx_Market)])
+* Growth Rating Point (GRP _ratio_ - [Engagement (Impressions, Clicks etc.) / Population])  
+* Return on Investment (ROI _ratio_ - [Cost per channel / Prescriptions (NBRx_Market)])
+* Marginal Return on Investment (mROI _ratio_ - slope of [Cost per channel / Prescriptions (NBRx_Market)])
 
 ### Processes
 
