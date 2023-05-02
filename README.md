@@ -10,6 +10,7 @@ The portfolio consist currently of a number of projects including the following.
 * Marketing Mix Models 2.0
 * Design of Experiments
 * Causal Multitouch Attribution 2.0
+* Optimization
 
 
 #### Future Projects
@@ -31,11 +32,19 @@ The Key Performance Index (KPIs) measured in our projects include the following:
 * Growth Rating Point (GRP _ratio_ - [Engagement (Impressions, Clicks etc.) / Population])  
 * Return on Investment (ROI _ratio_ - [Cost per channel / Prescriptions (NBRx_Market)])
 * Marginal Return on Investment (mROI _ratio_ - slope of [Cost per channel / Prescriptions (NBRx_Market)])
+* Brand Value Score (BVS)
+
 
 ### Processes
 
 ### Agents
+Our data consists of information from different designated data/service providers. 
+Some of these include:
+* IQVIA
+* ZS
+
+
 
 ### Data Attributes
-Data attributes include 
+Data attributes include Healthcare provider details, DMA population, channels, funnel categories, social information, display, video, search, TV data.
 
