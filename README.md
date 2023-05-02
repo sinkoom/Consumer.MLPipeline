@@ -16,4 +16,17 @@ The portfolio consist currently of a number of projects including the following.
 * Creatives (NLP, Itemized creatives, Computer Vision for creatives, Generative AI etc.)
 
 ### Data
-All data for projects can be sourced from AWS RedShift.
+All data for projects can be sourced from AWS RedShift. Data types include the: 
+* Anonymized Patient Longitudnal Data (physician, geography level)
+* HCP / HCO customer reference data (VEEVA, EPH)
+* Field Alignment data
+* Personal & Non-Personal Promotional data (VEEVA, CRM, CRI)
+* Non-Transactional Consumer demographic data (Designated Market Level)
+* Payer Data
+
+
+
+### Processes
+
+### Agents
+
