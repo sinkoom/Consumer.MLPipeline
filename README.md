@@ -34,7 +34,7 @@ The Key Performance Index (KPIs) measured in our projects include the following:
 * Marginal Return on Investment (mROI _ratio_ - slope of [Cost per channel / Prescriptions (NBRx_Market)])
 * Brand Value Score (BVS)
 * Degree of addressability/measurability
-*
+* Trend Summaries (for products at different aggregation levels)
 
 
 ### Processes
@@ -48,5 +48,5 @@ Some of these include:
 
 
 ### Data Attributes
-Data attributes include Healthcare provider details, consumer details, Designated Marketing Area features (population, zip etc.), channels, funnel categories, social information, display, video, search, TV data.
+Data attributes include Healthcare provider details, consumer/patient details, Designated Marketing Area features (population, zip etc.), channels, funnel categories, social information, display, video, search, TV data.
 
