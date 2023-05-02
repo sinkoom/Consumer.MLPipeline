@@ -9,6 +9,7 @@ The consumer data science portfolio consist currently of three projects
 * Audiences / Segmentation / Clustering (Axiom Segmentation)
 * Marketing Mix Models 2.0
 * Design of Experiments
+* Causal Multitouch Attribution 2.0
 * Creatives (NLP, Itemized creatives, Computer Vision for creatives, Generative AI etc.)
 
 
