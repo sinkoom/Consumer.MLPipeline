@@ -1,9 +1,8 @@
 # Consumer.MLPipeline
-This is an initial set up of the ML pipeline for the consumer data projects.
-The data and ML pipelines for the consumer data science.
+The BI&A consumer data science pipeline consists of different projects and assets that address the consumer marketing needs.
 
 ### Projects
-The consumer data science portfolio consist currently of three projects
+The portfolio consist currently of a number of projects including the following.
 * Marketing Mix Models
 * Multitouch Attribution Models (MAM)
 * Audiences / Segmentation / Clustering (Axiom Segmentation)
