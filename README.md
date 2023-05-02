@@ -46,5 +46,5 @@ Some of these include:
 
 
 ### Data Attributes
-Data attributes include Healthcare provider details, DMA population, channels, funnel categories, social information, display, video, search, TV data.
+Data attributes include Healthcare provider details, consumer details, Designated Marketing Area features (population, zip etc.), channels, funnel categories, social information, display, video, search, TV data.
 
